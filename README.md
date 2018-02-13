@@ -1,7 +1,7 @@
 # CNN-ImageClass
 Python project for the Machine Learning module of the MSc AI and Robotics in Sapienza University of Rome
 
-This homework implements a convolutional neural network to classify 3 types of boats from the dataset available under:
+This homework implements a convolutional neural network using Tensorflow to classify 3 types of boats from the dataset available under:
 http://www.dis.uniroma1.it/~labrococo/MAR/classification.htm
 
 It can be reused to to classify any other images just by changing the following variables at the top of the code:
